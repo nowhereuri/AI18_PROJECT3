@@ -1,4 +1,8 @@
-# 포트폴리오 웹사이트
+# AI18_PROJECT3
+
+AI 서비스 기획/개발 과정 미니프로젝트3 - 2_규칙기반 추천 시스템 (Streamlit)
+
+## 포트폴리오 웹사이트
 
 Streamlit을 사용하여 만든 개인 포트폴리오 웹사이트입니다.
 
@@ -29,4 +33,3 @@ streamlit run app.py
 - Streamlit
 - Python
 - HTML/CSS
-
